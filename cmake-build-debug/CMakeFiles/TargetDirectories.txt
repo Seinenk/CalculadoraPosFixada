@@ -1,0 +1,3 @@
+C:/Users/Carlos Michael/Documents/GitHub/CalculadoraPosFixada/cmake-build-debug/CMakeFiles/CalculadoraPosFixada.dir
+C:/Users/Carlos Michael/Documents/GitHub/CalculadoraPosFixada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Carlos Michael/Documents/GitHub/CalculadoraPosFixada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
